@@ -2,6 +2,6 @@
 $title = 'Best Site';
 $content = "hgjalhgsad";
 
-include 'template';
+include 'template.php';
 
 ?>
