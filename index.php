@@ -1,5 +1,5 @@
 <?php
-$title = 'Test Site';
+$title = 'Best Site';
 $content = "HAHAHAHAHAHAHA";
 
 include 'template.php';
