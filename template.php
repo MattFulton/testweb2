@@ -15,8 +15,8 @@
 
 			<nav id="navigation">
 				<ul id="nav">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="index.php">Also Home</a></li>
+					<li><a href="index">Home</a></li>
+					<li><a href="index">Also Home</a></li>
 				</ul>
 			</nav>
 
