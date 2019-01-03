@@ -1,7 +1,7 @@
 <?php
 $title = 'Best Site';
-$content = "SCREAM";
+$content = "hgjalhgsad";
 
-include 'template.php';
+include 'template';
 
 ?>
