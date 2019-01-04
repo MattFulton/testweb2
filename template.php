@@ -15,7 +15,7 @@
 
 			<nav id="navigation">
 				<ul id="nav">
-					<li><a href="index">Home</a></li>
+					<li><a href="/">Home</a></li>
 					<li><a href="index">Also Home</a></li>
 				</ul>
 			</nav>
